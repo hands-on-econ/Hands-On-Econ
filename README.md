@@ -13,3 +13,8 @@ We hope you enjoy the course!
 
 https://nbviewer.jupyter.org/github/hands-on-econ/
 
+
+https://nbviewer.jupyter.org/github/hands-on-econ/Hands-On-Econ/tree/master/Michaelmas/
+
+https://nbviewer.jupyter.org/github/hands-on-econ/Hands-On-Econ/tree/master/Lent/
+
