@@ -10,3 +10,6 @@ All queries and comments should be directed to handsonecon@gmail.com
 
 We hope you enjoy the course!
 
+
+https://nbviewer.jupyter.org/github/hands-on-econ/
+
