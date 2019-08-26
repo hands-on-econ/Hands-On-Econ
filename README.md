@@ -2,11 +2,9 @@
 
 # Long Story Short
 
-The course is made up of two parts. Part 1 is Michaelmas and part 2 is Lent. Open Michaelmas (below) and the open Week 1 to start:
+Michaelmas (Term 1): https://tinyurl.com/handsoneconMT
 
-Michaelmas: https://tinyurl.com/handsoneconMT
-
-Lent: https://tinyurl.com/handsoneconLT
+Lent (Term 2): https://tinyurl.com/handsoneconLT
 
 
 # Long Story Long
