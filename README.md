@@ -4,9 +4,9 @@
 
 The course is made up of two parts. Part 1 is Michaelmas and part 2 is Lent. Open Michaelmas (below) and the open Week 1 to start:
 
-Michaelmas: https://nbviewer.jupyter.org/github/hands-on-econ/Hands-On-Econ/tree/master/Michaelmas/
+Michaelmas: https://tinyurl.com/handsoneconMT
 
-Lent: https://nbviewer.jupyter.org/github/hands-on-econ/Hands-On-Econ/tree/master/Lent/
+Lent: https://tinyurl.com/handsoneconLT
 
 
 # Long Story Long
